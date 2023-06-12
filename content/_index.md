@@ -61,6 +61,8 @@ sections:
       title:
       subtitle:
       text: |
+        {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
+
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
