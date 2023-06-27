@@ -109,6 +109,7 @@ sections:
       text: |
         <a>
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{< button href="https://example.com/" >}}Example{{< /button >}}
     design:
       columns: '1'
 ---
