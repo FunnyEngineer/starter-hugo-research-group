@@ -14,4 +14,6 @@ social:
 organizations:
   - name: The University of Texas at Austin
 superuser: false
+user_groups:
+  - Grad Students
 ---
