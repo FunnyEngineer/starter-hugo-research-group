@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: maincampus_yellow.jpg
+            filename: maincampus_yellow.jpeg
             filters:
               brightness: 0.7
           position: center
