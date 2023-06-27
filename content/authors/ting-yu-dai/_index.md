@@ -10,7 +10,7 @@ social:
       header: false
     icon_pack: fab
     link: https://github.com/FunnyEngineer
-    icon: envelope
+    icon: github
 organizations:
   - name: The University of Texas at Austin
 superuser: false
