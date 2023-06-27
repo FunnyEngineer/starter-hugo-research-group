@@ -13,27 +13,27 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: maincampus_hero.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Extreme Weather & Urban Sustainability ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: maincampus_yellow.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Data for urbanization and climate change
+        content: ''
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: IMG_8784.jpg
             filters:
               brightness: 0.5
           position: center
@@ -54,7 +54,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Texas Extreme Weather & Urban Sustainability 
         Research Group
       image:
         filename: welcome.jpg

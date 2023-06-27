@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: IMG_8804.jpg
+          filename: maincampus_yellow.jpg
           filters:
             brightness: 1
           parallax: false
