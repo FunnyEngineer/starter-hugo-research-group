@@ -107,9 +107,13 @@ sections:
       title:
       subtitle:
       text: |
-        <a>
+        <br>
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-        {{< button href="https://example.com/" >}}Example{{< /button >}}
+    link:
+      icon: graduation-cap
+      icon_pack: fas
+      text: Join Us
+      url: ../contact/
     design:
       columns: '1'
 ---
