@@ -10,11 +10,11 @@ main:
   - name: People
     url: people
     weight: 20
-  - name: Events
-    url: event
+  - name: Research
+    url: research
     weight: 30
   - name: Publications
-    url: publication
+    url: https://scholar.google.com/citations?hl=en&user=Ixl0-pAAAAAJ&view_op=list_works&sortby=pubdate
     weight: 40
   - name: Contact
     url: contact
