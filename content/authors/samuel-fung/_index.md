@@ -1,5 +1,6 @@
 ---
 title: Samuel Fung
+role: PhD Student
 avatar_filename: avatar.jpg
 interests:
   - Urbanization
