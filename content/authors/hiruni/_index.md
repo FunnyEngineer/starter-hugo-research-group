@@ -9,5 +9,5 @@ organizations:
   - name: University of Texas at Austin
 superuser: false
 user_groups:
-  - Vistors
+  - Visitors
 ---
