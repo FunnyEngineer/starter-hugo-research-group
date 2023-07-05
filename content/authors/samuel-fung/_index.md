@@ -7,7 +7,17 @@ bio: "I am a Ph.D. candidate studying urban feedbacks on extreme weather
   NASA Earth and Space Science and Technology (FINESST) fellowship since 2020. "
 interests:
   - Urbanization
-social: []
+social:
+  - display:
+      header: false
+    link: "https://www.linkedin.com/in/samuel-k-y-fung-2a90b5152/ "
+    icon_pack: far
+    icon: envelope
+  - display:
+      header: false
+    link: https://samuelkyfung.github.io/
+    icon_pack: far
+    icon: envelope
 organizations:
   - name: University of Texas at Austin
 superuser: false
