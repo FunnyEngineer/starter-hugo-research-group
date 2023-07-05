@@ -12,6 +12,7 @@ interests:
 social: []
 organizations:
   - name: University of Texas at Austin
+email: Tbrooks4343@utexas.edu
 superuser: false
 user_groups:
   - Grad Students
