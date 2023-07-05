@@ -1,7 +1,7 @@
 ---
 title: Vanessa
 role: HCI/UX Research and Design
-avatar_filename: avatar
+avatar_filename: vanessa_badge_headshot.jpg
 bio: Hi there! I'm a South Austin native with a love of travel, story, and
   puzzles. I'm pursuing an MS in Human-Computer Interaction and User Experience
   Research at the UT School of Information (2024). I have a BFA in Communication
