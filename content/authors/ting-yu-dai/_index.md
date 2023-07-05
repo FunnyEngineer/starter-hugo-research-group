@@ -2,6 +2,7 @@
 title: Ting-Yu Dai
 role: PhD Student
 avatar_filename: ting-yu.jpg
+bio: Machine Learning, Building Energy, and Air Quality
 interests:
   - Machine learning for climate
   - UrbanDownscaling
