@@ -11,6 +11,7 @@ interests:
 social: []
 organizations:
   - name: University of Texas at Austin
+email: hiruni.dissanayake@utexas.edu
 superuser: false
 user_groups:
   - Visitors
