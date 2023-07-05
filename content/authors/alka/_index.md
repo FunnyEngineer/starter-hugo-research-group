@@ -2,7 +2,7 @@
 title: Alka
 role: "I am a PhD candidate and NASA Fellow who is working to improve
   post-hurricane flood modeling. "
-avatar_filename: avatar
+avatar_filename: img_9367.jpeg
 bio: Curious mind who looks at hurricane with an awe for its beauty in chaos.
   Would like to discuss and collaborate about satellite products, impacts of
   variability in data source on hydrological simulation and extreme weather,
