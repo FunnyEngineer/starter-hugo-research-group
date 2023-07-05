@@ -9,6 +9,7 @@ interests:
 social: []
 organizations:
   - name: University of Texas at Austin
+email: kamath.harsh@utexas.edu
 superuser: false
 user_groups:
   - Grad Students
