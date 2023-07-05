@@ -1,7 +1,7 @@
 ---
 title: Caleb
 role: PhD Student
-avatar_filename: avatar
+avatar_filename: image.jpeg
 bio: I have a BS in Computational and Applied Mathematics from Western New
   Mexico University. My research interests are in using physics-based models and
   machine learning methods to study the role of vegetation and water in fire
