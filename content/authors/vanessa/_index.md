@@ -1,5 +1,6 @@
 ---
 title: Vanessa
+role: HCI/UX Research and Design
 avatar_filename: avatar
 bio: Hi there! I'm a South Austin native with a love of travel, story, and
   puzzles. I'm pursuing an MS in Human-Computer Interaction and User Experience
@@ -19,5 +20,6 @@ social:
     link: https://www.linkedin.com/in/vanessaux/
     icon_pack: fas
     icon: envelope
+email: vanessa.sanchez@utexas.edu
 superuser: false
 ---
