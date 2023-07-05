@@ -20,6 +20,7 @@ social:
     icon: envelope
 organizations:
   - name: University of Texas at Austin
+email: samuel.fung@utexas.edu
 superuser: false
 user_groups:
   - Grad Students
