@@ -14,6 +14,7 @@ social:
     icon: github
 organizations:
   - name: The University of Texas at Austin
+email: funnyengineer@utexas.edu
 superuser: false
 user_groups:
   - Grad Students
