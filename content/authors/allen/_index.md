@@ -1,7 +1,7 @@
 ---
 title: Allen
 role: research scientist
-avatar_filename: avatar
+avatar_filename: photo.jpeg
 bio: Allen is a Doerr School of Sustainability Dean's postdoctoral fellow at
   Stanford University. studies surface water across scales, both spatially
   (local, continental, and global) and temporally (Hydrology, Hydrometeorology,
