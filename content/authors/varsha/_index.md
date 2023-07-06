@@ -1,7 +1,7 @@
 ---
 title: Varsha
 role: User Experience Designer
-avatar_filename: avatar
+avatar_filename: img_5468.jpg
 bio: ​I am a user experience designer and a trained architect with a flair for
   visual communication. Passionate about designing experiences that are creative
   and human-centered, I aspire to create a thoughtful impact through meaningful
