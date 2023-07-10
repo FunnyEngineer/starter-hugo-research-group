@@ -9,4 +9,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    color: "#e48527"
 ---
