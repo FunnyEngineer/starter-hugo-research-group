@@ -15,7 +15,7 @@ role: "My role in the lab can be summarized as below:  1. Research: I conduct
   collaborating on research projects, discussing findings, and developing new
   research questions or hypotheses.  5. Mentorship: I also have opportunities to
   mentor undergraduate or graduate students working in the lab."
-avatar_filename: avatar
+avatar_filename: 054e3922-696c-404d-8843-0c7ae41474b8.jpg
 bio: Manmeet Singh is Scientist at the Centre for Climate Change Research,
   Indian Institute of Tropical Meteorology, Pune and an Associate at Jackson
   School of Geosciences, The University of Texas at Austin, Austin, USA. He was
